@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/skarthikeyan96/karthi.me/compare/v1.0.0...v1.0.1) (2021-07-15)
+
+
+### Bug Fixes
+
+* fixing the npm build ([5d2934d](https://www.github.com/skarthikeyan96/karthi.me/commit/5d2934d2efc0fe6fb8cfbc34c8034d86c0029aa0))
+
 ## 1.0.0 (2021-07-15)
 
 
