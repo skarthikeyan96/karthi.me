@@ -20,5 +20,6 @@
     "tabWidth": 2,
     "trailingComma": "none",
     "semi": false
-  }
+  },
+  "version": "1.0.0"
 }
