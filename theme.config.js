@@ -2,19 +2,17 @@ const YEAR = new Date().getFullYear()
 
 export default {
   footer: (
-    <small style={{ display: 'block', marginTop: '8rem' }}>
-      <time>{YEAR}</time> © Karthikeyan.
-      <style jsx>{`
-        a {
-          float: right;
-        }
-        @media screen and (max-width: 480px) {
-          article {
-            padding-top: 2rem;
-            padding-bottom: 4rem;
-          }
-        }
-      `}</style>
-    </small>
+    <section id="comments">
+    <h4>
+      <a href="">Comments</a>
+    </h4>
+    <script src="https://utteranc.es/client.js"
+      repo="skarthikeyan96/karthi.me"
+      issue-term="pathname"
+      label="comments"
+      theme="github-light"
+      crossorigin="anonymous"
+      async />
+    </section>
   )
 }
