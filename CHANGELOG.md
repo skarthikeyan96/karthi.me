@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/skarthikeyan96/karthi.me/compare/v1.0.1...v1.1.0) (2021-07-16)
+
+
+### Features
+
+* adds the canonical url for better SEO ([24d5c82](https://www.github.com/skarthikeyan96/karthi.me/commit/24d5c82fafdd1ea77862938ace7e2c747c7585da))
+
 ### [1.0.1](https://www.github.com/skarthikeyan96/karthi.me/compare/v1.0.0...v1.0.1) (2021-07-15)
 
 
